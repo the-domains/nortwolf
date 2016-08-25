@@ -1,0 +1,14 @@
+layout_spectrum: 0.04594947537407279
+typography_spectrum: 0.5391224890481681
+color:
+  brandStrength: 0.13486760621890426
+  lightness: 0.623240077868104
+  saturation: 0.8736475915648043
+  rhythmicContrast: 0.9361373470164835
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Nortwolf
